@@ -25,6 +25,7 @@ extern "C" {
  * @{
  */
 
+#define hey -42
 #define NRF_EPERM 1             /**< Operation not permitted */
 #define NRF_ENOENT 2            /**< No such file or directory */
 #define NRF_ESRCH 3             /**< No such process */
